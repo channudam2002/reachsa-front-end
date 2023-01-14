@@ -1,8 +1,8 @@
 <template>
    <nav class="w-full flex flex-row space-x-3 items-center justify-between text-white p-5 px-10">
-        <router-link :to="{name: 'home'}" class="w-1/12 ">
+        <div class="w-1/12 ">
             <img src="../assets/Reachsa.png" alt="" class="w-full">
-        </router-link>
+        </div>
         <div class="flex flex-row space-x-10 items-center font-bold">
             <router-link :to="{name: 'home'} " class="hover:border-b cursor-pointer">
                 <p>Home</p>
