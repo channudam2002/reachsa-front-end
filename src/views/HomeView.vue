@@ -6,7 +6,7 @@
     <div class="w-full h-screen  bg-black bg-opacity-80 absolute top-0 left-0 z-20"></div>
     <div class="w-full h-screen z-30 flex flex-col items-start justify-center sm:p-48 p-10 sm:text-6xl sm:space-y-32 space-y-16">
         <div class="flex flex-col space-y-5">
-            <div class="text-primary-color text-5xl sm:text-5xl font-bold sm:font-normal">
+            <div class="text-primary-color text-4xl sm:text-5xl font-bold sm:font-normal">
                 <p>Internet of Thing platform</p>
             </div>
             <div class=" font-normal sm:text-base text-2xl">
