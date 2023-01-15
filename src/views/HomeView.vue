@@ -1,35 +1,35 @@
 <template>
  <div class="relative text-white w-full min-h-screen flex flex-col items-center justify-center">
-    <div class="w-full h-screen absolute top-0 left-0 z-10">
-        <video src="../assets/herovideo3.mp4" autoplay loop class="w-full h-full"></video>
+    <div class="sm:w-full h-screen absolute top-0 left-0 z-10">
+        <video src="../assets/herovideo3.mp4" autoplay loop class="sm:w-full h-full"></video>
     </div>
     <div class="w-full h-screen  bg-black bg-opacity-80 absolute top-0 left-0 z-20"></div>
-    <div class="w-full h-screen z-30 flex flex-col items-start justify-center p-48 text-6xl space-y-32">
+    <div class="w-full h-screen z-30 flex flex-col items-start justify-center sm:p-48 p-10 sm:text-6xl sm:space-y-32 space-y-16">
         <div class="flex flex-col space-y-5">
-            <div class="text-primary-color text-5xl">
+            <div class="text-primary-color text-2xl sm:text-5xl font-bold sm:font-normal">
                 <p>Internet of Thing platform</p>
             </div>
-            <div class=" font-normal">
+            <div class=" font-normal sm:text-base text-xl">
                 in Cambodia for Cambodian
             </div>
-            <div class="text-base px-3 border-l-8 border-secondary-color">
+            <div class="sm:text-base px-3 border-l-8 border-secondary-color text-sm">
                 <p>We are ready to provide you an IoT solution for your business in Digital Innovation Era. <br> Embed IoT solution can <span class="text-secondary-color">save</span> your daily operation expenses <span class="text-secondary-color">up to 50%</span></p>
             </div>
         </div>
         <div class="flex flex-row space-x-5 items-center">
-            <div class="p-4 px-8 text-xl rounded-full text-white bg-primary-color border border-primary-color hover:text-primary-color font-normal uppercase hover:bg-transparent cursor-pointer">
+            <div class="sm:p-4 sm:px-8 p-3 px-6 sm:text-xl text-base rounded-full text-white bg-primary-color border border-primary-color hover:text-primary-color font-normal uppercase hover:bg-transparent cursor-pointer">
                 <p>Start free</p>
             </div>
-            <div class="p-4 px-8 text-xl rounded-full text-white border-white border font-normal hover:bg-white hover:text-primary-color cursor-pointer">
+            <div class="sm:p-4 sm:px-8 p-3 px-6 sm:text-xl text-base rounded-full text-white border-white border font-normal hover:bg-white hover:text-primary-color cursor-pointer">
                 <p>Explore Features</p>
             </div>
         </div>
     </div>
-    <div class="w-full h-screen text-white background-image bg-cover">
-        <div class="w-full h-full flex flex-row items-center justify-start p-32 space-x-32 bg-gradient-to-b from-black to-transparent">
-            <div class="w-2/5">
-                <div class="flex flex-col space-y-14 items-center justify-between w-full">
-                    <div class="flex flex-row w-full items-center justify-between space-x-3">
+    <div class="w-full sm:h-screen min-h-screen text-white background-image bg-cover">
+        <div class="w-full h-full flex sm:flex-row flex-col-reverse items-center justify-start sm:p-32 p-10 sm:space-x-32 sm:space-y-0 space-y-reverse space-y-10  space-x-0 bg-gradient-to-b from-black to-transparent">
+            <div class="sm:w-2/5 w-full">
+                <div class="flex flex-col sm:space-y-14 space-y-10 items-center justify-between w-full">
+                    <div class="flex sm:flex-row flex-col w-full items-center justify-between sm:space-x-3 sm:space-y-0 space-x-0 space-y-10">
                         <div class="flex flex-col space-y-5 items-center justify-center text-center bg-primary-color bg-opacity-20 p-5 rounded-md shadow-md shadow-primary-color hover:shadow-xl hover:shadow-primary-color">
                             <div class="text-2xl text-primary-color">
                                 Expertize
@@ -57,7 +57,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="flex flex-row w-full items-center justify-between space-x-3">
+                    <div class="flex sm:flex-row flex-col w-full items-center justify-between sm:space-x-3 sm:space-y-0 space-x-0 space-y-10">
                         <div class="flex flex-col space-y-5 items-center justify-center text-center bg-secondary-color bg-opacity-10 p-5 rounded-md shadow-md shadow-secondary-color hover:shadow-xl hover:shadow-secondary-color">
                             <div class="text-2xl text-secondary-color">
                                 Localize
@@ -87,7 +87,7 @@
                     </div>
                 </div>
             </div>
-            <div class="w-2/6 text-6xl font-bold flex flex-col space-y-5 rounded-md items-start justify-center p-10 drop-shadow-md bg-black bg-opacity-70">
+            <div class="sm:w-2/6 w-full sm:text-6xl text-3xl font-bold flex flex-col space-y-5 rounded-md items-start justify-center sm:p-10 p-5 drop-shadow-md bg-black bg-opacity-70">
                 <div>Why <span class="text-primary-color">REACHSA</span><span class="text-secondary-color">.io</span></div>
                 <div class="px-3 border-l-8 border-secondary-color text-base font-normal">
                     <p>We build for Cambodian people by <span class="text-secondary-color">local experts</span> with <span class="text-secondary-color">24/7 support</span> for technical issues.</p>

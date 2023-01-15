@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-col items-center w-screen min-h-screen">
     <!-- Header -->
-    <div class="w-full fixed z-40 bg-black">
+    <div class="w-screen fixed z-40 bg-black">
         <header-view></header-view>
     </div>
     <!-- content -->
