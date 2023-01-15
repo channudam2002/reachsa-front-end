@@ -17,7 +17,7 @@
             </div>
         </div>
         <div class="flex flex-row space-x-5 items-center">
-            <div class="sm:p-4 sm:px-8 p-3 px-6 sm:text-xl text-base rounded-full text-white bg-primary-color border border-primary-color hover:text-primary-color font-normal uppercase hover:bg-transparent cursor-pointer">
+            <div class="sm:p-4 sm:px-5 p-3 px-6 sm:text-xl text-base rounded-full text-white bg-primary-color border border-primary-color hover:text-primary-color font-normal uppercase hover:bg-transparent cursor-pointer">
                 <p>Start free</p>
             </div>
             <div class="sm:p-4 sm:px-8 p-3 px-6 sm:text-xl text-base rounded-full text-white border-white border font-normal hover:bg-white hover:text-primary-color cursor-pointer">
