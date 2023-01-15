@@ -9,14 +9,14 @@
             <div class="text-primary-color text-4xl sm:text-5xl font-bold sm:font-normal">
                 <p>Internet of Thing platform</p>
             </div>
-            <div class=" font-normal sm:text-base text-2xl">
+            <div class=" font-normal sm:text-6xl text-2xl">
                 in Cambodia for Cambodian
             </div>
             <div class="sm:text-base px-3 border-l-8 border-secondary-color text-base">
                 <p>We are ready to provide you an IoT solution for your business in Digital Innovation Era. <br> Embed IoT solution can <span class="text-secondary-color">save</span> your daily operation expenses <span class="text-secondary-color">up to 50%</span></p>
             </div>
         </div>
-        <div class="flex sm:flex-row flex-col self-center sm:space-x-5 sm:space-y-0 space-x-0 space-y-7 items-center">
+        <div class="flex sm:flex-row flex-col sm:self-start self-center sm:space-x-5 sm:space-y-0 space-x-0 space-y-7 items-center">
             <div class="sm:p-4 sm:px-5 p-4 px-20 sm:text-xl text-base rounded-full text-white bg-primary-color border border-primary-color hover:text-primary-color font-normal uppercase hover:bg-transparent cursor-pointer">
                 <p>Start free</p>
             </div>
