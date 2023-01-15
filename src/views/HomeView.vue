@@ -1,26 +1,26 @@
 <template>
  <div class="relative text-white w-full min-h-screen flex flex-col items-center justify-center">
-    <div class="sm:w-full h-screen absolute top-0 left-0 z-10">
-        <video src="../assets/herovideo3.mp4" autoplay loop class="sm:w-full h-full"></video>
+    <div class="sm:w-full w-screen h-screen absolute top-0 left-0 z-10 overflow-hidden">
+        <video src="../assets/herovideo3.mp4" autoplay loop class="sm:w-full sm:h-full h-[1000px] max-w-fit"></video>
     </div>
     <div class="w-full h-screen  bg-black bg-opacity-80 absolute top-0 left-0 z-20"></div>
     <div class="w-full h-screen z-30 flex flex-col items-start justify-center sm:p-48 p-10 sm:text-6xl sm:space-y-32 space-y-16">
         <div class="flex flex-col space-y-5">
-            <div class="text-primary-color text-2xl sm:text-5xl font-bold sm:font-normal">
+            <div class="text-primary-color text-5xl sm:text-5xl font-bold sm:font-normal">
                 <p>Internet of Thing platform</p>
             </div>
-            <div class=" font-normal sm:text-base text-xl">
+            <div class=" font-normal sm:text-base text-2xl">
                 in Cambodia for Cambodian
             </div>
-            <div class="sm:text-base px-3 border-l-8 border-secondary-color text-sm">
+            <div class="sm:text-base px-3 border-l-8 border-secondary-color text-base">
                 <p>We are ready to provide you an IoT solution for your business in Digital Innovation Era. <br> Embed IoT solution can <span class="text-secondary-color">save</span> your daily operation expenses <span class="text-secondary-color">up to 50%</span></p>
             </div>
         </div>
-        <div class="flex flex-row space-x-5 items-center">
-            <div class="sm:p-4 sm:px-5 p-4 sm:text-xl text-base rounded-full text-white bg-primary-color border border-primary-color hover:text-primary-color font-normal uppercase hover:bg-transparent cursor-pointer">
+        <div class="flex sm:flex-row flex-col self-center sm:space-x-5 sm:space-y-0 space-x-0 space-y-7 items-center">
+            <div class="sm:p-4 sm:px-5 p-4 px-20 sm:text-xl text-base rounded-full text-white bg-primary-color border border-primary-color hover:text-primary-color font-normal uppercase hover:bg-transparent cursor-pointer">
                 <p>Start free</p>
             </div>
-            <div class="sm:p-4 sm:px-8 p-4 sm:text-xl text-base rounded-full text-white border-white border font-normal hover:bg-white hover:text-primary-color cursor-pointer">
+            <div class="sm:p-4 sm:px-8 p-4 px-20 sm:text-xl text-base rounded-full text-white border-white border font-normal hover:bg-white hover:text-primary-color cursor-pointer">
                 <p>Explore Features</p>
             </div>
         </div>

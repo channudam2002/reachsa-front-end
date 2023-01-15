@@ -1,6 +1,6 @@
 <template>
    <nav class="w-full flex flex-row space-x-3 items-center justify-between text-white p-5 px-16  sm:px-10">
-        <div class="sm:w-1/12 w-1/3">
+        <div class="sm:w-1/12 w-1/2">
             <img src="../assets/Reachsa.png" alt="" class="w-full">
         </div>
         <div class="flex-row space-x-10 items-center font-bold sm:flex hidden">
