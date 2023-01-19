@@ -95,19 +95,19 @@
             </div>
         </div>
     </div>
-    <div class="w-full bg-neutral-900  p-20  px-72  flex flex-col space-y-32 ">
-        <div class="flex flex-col space-y-5 w-1/2">
+    <div class="w-full bg-neutral-900  sm:p-20  sm:px-72 p-10  flex flex-col sm:space-y-32 space-y-20">
+        <div class="flex flex-col space-y-5 sm:w-1/2 w-full">
             <div class="px-3 border-l-8 border-secondary-color text-secondary-color uppercase">
                 <p>user-friendly platform</p>
             </div>
-            <div class="text-6xl font-bold">
+            <div class="sm:text-6xl text-3xl font-bold">
                 <p>Best for your <span class="text-primary-color drop-shadow-high-light-primary">customers</span> or <span class="text-primary-color drop-shadow-high-light-primary">yourself</span></p>
             </div>
             <div>
                 <p>IoT enables companies to automate processes and reduce labor costs. It also cuts down on waste and improves service delivery, making it less expensive to manufacture and deliver goods, as well as offering transparency into customer transactions.</p>
             </div>
         </div>
-        <div class="w-full flex flex-row space-x-5 justify-evenly  items-start">
+        <div class="w-full flex sm:flex-row sm:space-x-5 sm:space-y-0 flex-col space-x-0 space-y-10 justify-evenly  items-start">
             <div class="flex flex-col space-y-5 items-center">
                 <div class="text-6xl text-primary-color ">
                     <i class="fa-solid fa-user-secret"></i>
