@@ -9,7 +9,7 @@
         <router-view></router-view>
     </div>
     <!-- Footer -->
-    <div class="w-full bg-neutral-900">
+    <div class="sm:block hidden w-full bg-neutral-900">
       <footer-view></footer-view>
     </div>
   </div>

@@ -144,26 +144,26 @@
         </div>
     </div>
     <div class="w-full  background-image1 bg-fixed">
-        <div class="bg-black w-full h-full bg-opacity-50 flex flex-col space-y-10 items-center justify-center p-24 ">
-            <div class="text-5xl font-bold">
+        <div class="bg-black w-full h-full bg-opacity-50 flex flex-col space-y-10 items-center justify-center sm:p-24 p-10 ">
+            <div class="sm:text-5xl text-3xl text-center font-bold">
                 <p>Gets involved with <span class="text-primary-color">REACHSA</span><span class="text-secondary-color">.io</span> Community</p>
             </div>
             <div class="flex flex-row space-x-10">
-                <div class="text-center p-5 px-16  rounded-full bg-white text-primary-color text-3xl cursor-pointer hover:text-white hover:bg-primary-color">
+                <div class="text-center p-5 px-16  rounded-full bg-white text-primary-color text-xl sm:text-3xl cursor-pointer hover:text-white hover:bg-primary-color">
                     <p>Get Started</p>
                 </div>
             </div>
         </div>
     </div>
-    <div class="flex flex-col space-y-10 w-full p-20 px-72 bg-white">
-        <div class="self-end text-5xl text-neutral-900 px-3 border-x-8 border-primary-color">
+    <div class="flex flex-col space-y-10 w-full p-20 sm:px-72 px-10 bg-white">
+        <div class="sm:text-5xl sm:self-end text-3xl text-neutral-900 px-3 border-x-8 border-primary-color">
             <p>We are a part of <span class="text-secondary-color">Factory.io</span></p>
         </div>
-        <div class="w-full flex flex-row space-x-20  items-center">
-            <div class="w-1/2">
+        <div class="w-full flex sm:flex-row sm:space-x-20 sm:space-y-0 flex-col space-y-5 space-x-0  items-center">
+            <div class="sm:w-1/2 w-full">
                 <img src="../assets/Factoryio.png" alt="" class="w-full">
             </div>
-            <div class="w-1/2 text-neutral-900">
+            <div class="sm:w-1/2 w-full text-neutral-900">
                 <p><span class="font-bold">Factory.io</span> is revolutionizing the way companies manufacture, improve and distribute products. Manufacturers are integrating new technologies, including IoT, Cloud Computing and Analytics, AI, ML, Robotic, PLC, STEAM for Kid into their production facilities and throughout automate operations.</p>
             </div>
         </div>
