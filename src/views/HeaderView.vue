@@ -42,7 +42,7 @@
                 <p>Sign up</p>
             </div>
         </div>
-        <div class="sm:hidden block">
+        <div class="sm:hidden block text-2xl">
             <i class="fa-solid fa-bars-staggered"></i>
         </div>
     </nav>
