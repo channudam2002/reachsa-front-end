@@ -3,10 +3,18 @@
 </template>
 
 <script>
+import axios from 'axios';
 import AppLayoutView from './views/AppLayoutView.vue';
 export default {
   components: { AppLayoutView },
-  AppLayoutView
+  // mounted(){
+  //   axios.get('https://api.airtable.com/v0/appc3TK8RWvMar2Mi/tbl7VJ2NC303HRuj2', {
+  //     headers:{
+  //       'Authorization': 'Bearer pat2WJzYjoc25FOEE.506d90bbe451ef32dad7aaaabdaa726887e2507ba72827bb9153af2a08d57505'
+  //     }
+  //   })
+  //   .then(data => console.log(data.data.records))
+  // }
 }
 </script>
 
