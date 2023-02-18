@@ -15,7 +15,7 @@
             </div>
         </div>
         <div class="w-full h-3/6 sm:py-32 sm:px-72 p-10 items-center justify-center sm:space-x-20 sm:space-y-0 flex sm:flex-row flex-col space-x-0 space-y-10 text-white">
-            <div class="sm:w-1/4 w-full flex flex-col space-y-3 items-center border rounded-md p-5 hover:bg-white hover:text-black cursor-pointer">
+            <a href="https://docs.reachsa.digital/" target="_blank"  class="sm:w-1/4 w-full flex flex-col space-y-3 items-center border rounded-md p-5 hover:bg-white hover:text-black cursor-pointer">
                 <div class="text-3xl">
                     <i class="fa-solid fa-book"></i>
                 </div>
@@ -31,7 +31,7 @@
                 <div>
 
                 </div>
-            </div>
+            </a>
             <div class="sm:w-1/4 w-full flex flex-col space-y-3 items-center border rounded-md p-5 hover:bg-white hover:text-black cursor-pointer">
                 <div class="text-3xl">
                     <i class="fa-solid fa-video"></i>
