@@ -2,7 +2,7 @@
   <div class="w-full md:h-screen min-h-screen flex flex-col">
         <div class="w-full sm:h-3/6 h-[500px] text-white">
             <div class="relative w-full h-full overflow-hidden">
-                <video src="../assets/herovideo6.mp4" class="absolute top-0 left-0 w-full h-full" autoplay loop></video>
+                <video src="../assets/herovideo6.mp4" class="absolute top-0 left-0 w-full h-full sm:h-screen" autoplay loop></video>
                 <div class="w-full h-full absolute top-0 left-0 bg-gradient-to-b from-transparent to-black"></div>
                 <div class="flex flex-col space-y-10 sm:p-36 p-10 py-24 w-full justify-end items-center h-full absolute top-0 left-0 text-center">
                     <div>
