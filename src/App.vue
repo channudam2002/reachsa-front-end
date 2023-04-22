@@ -5,7 +5,11 @@
 <script>
 import axios from 'axios';
 import AppLayoutView from './views/AppLayoutView.vue';
+import titleMixin from './mixins/titleMixin';
 export default {
+  title(){
+    return "Reaschsa"
+  },
   components: { AppLayoutView },
   // mounted(){
   //   axios.get('https://api.airtable.com/v0/appc3TK8RWvMar2Mi/tbl7VJ2NC303HRuj2', {

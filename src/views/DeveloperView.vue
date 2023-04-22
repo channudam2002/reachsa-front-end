@@ -8,7 +8,7 @@
                     <div>
                         <p class="sm:text-6xl text-3xl">Push your <span class="text-secondary-color">project</span> to real world of <span class="text-primary-color">IoT</span></p>
                     </div>
-                    <router-link :to="{name: 'back-office'}" class="p-4 px-8 rounded-full border sm:text-3xl text-xl cursor-pointer hover:bg-primary-color hover:border hover:border-primary-color hover:bg-opacity-50">
+                    <router-link :to="{name: 'home'}" class="p-4 px-8 rounded-full border sm:text-3xl text-xl cursor-pointer hover:bg-primary-color hover:border hover:border-primary-color hover:bg-opacity-50">
                         <p>Go to Dashboard</p>
                     </router-link>
                 </div>
