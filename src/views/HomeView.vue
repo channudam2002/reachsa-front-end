@@ -192,10 +192,7 @@
                 <img src="../assets/Factoryio.png" alt="" class="w-full">
             </div>
             <div class="sm:w-1/2 w-full text-neutral-900">
-                <p><span class="font-bold">Factory.io</span> is revolutionizing the way companies manufacture, improve
-                    and distribute products. Manufacturers are integrating new technologies, including IoT, Cloud
-                    Computing and Analytics, AI, ML, Robotic, PLC, STEAM for Kid into their production facilities and
-                    throughout automate operations.</p>
+                <p><span class="font-bold">Factory.io Community is </span>the IoT (Internet of Things) platform community consists of a broad spectrum of people, groups, and businesses engaged in the creation, implementation, and usage of IoT platforms. For the purpose of facilitating the development of scalable and interoperable IoT systems, its focus is on defining standards, best practices, and working together on open-source projects. The community, which consists of software providers, system integrators, hardware producers, network operators, and end users, collaborates to address the technical, commercial, and legal issues related to IoT deployment and to create new use cases and applications that make use of IoT platforms.</p>
             </div>
         </div>
         <div
