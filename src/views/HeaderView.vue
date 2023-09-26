@@ -31,7 +31,7 @@
                 </div>
             </div>
         </div>
-        <div class="flex-row space-x-5 items-center sm:flex hidden">
+        <!-- <div class="flex-row space-x-5 items-center sm:flex hidden">
             <div>
                 <p>Sign in</p>
             </div>
@@ -41,7 +41,7 @@
             <div>
                 <p>Sign up</p>
             </div>
-        </div>
+        </div> -->
         <div class="sm:hidden block text-2xl">
             <i class="fa-solid fa-bars-staggered"></i>
         </div>

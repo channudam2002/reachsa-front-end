@@ -8,7 +8,7 @@
                     <div>
                         <p class="sm:text-6xl text-3xl">Push your <span class="text-secondary-color">project</span> to real world of <span class="text-primary-color">IoT</span></p>
                     </div>
-                    <a href="https://dashboard.reachsa.digital/" class="p-4 px-8 rounded-full border sm:text-3xl text-xl cursor-pointer hover:bg-primary-color hover:border hover:border-primary-color hover:bg-opacity-50">
+                    <a href="https://demo.reachsa.digital/" class="p-4 px-8 rounded-full border sm:text-3xl text-xl cursor-pointer hover:bg-primary-color hover:border hover:border-primary-color hover:bg-opacity-50">
                         <p>Go to Dashboard</p>
                     </a>
                 </div>
@@ -26,7 +26,7 @@
                     <hr>
                 </div>
                 <div class="text-center">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit esse voluptatem ab voluptas obcaecati velit explicabo dolor maxime odit veritatis.
+                    Document for Reachsa.io Platform. All you can read!
                 </div>
                 <div>
 
@@ -43,7 +43,7 @@
                     <hr>
                 </div>
                 <div class="text-center">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit esse voluptatem ab voluptas obcaecati velit explicabo dolor maxime odit veritatis.
+                    Tutorial Video for general IoT Education. All you can watch!
                 </div>
                 <div>
 
